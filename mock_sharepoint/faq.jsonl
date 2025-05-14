@@ -1,0 +1,40 @@
+{"question":"What is the average unit price for Hydraulic parts?","answer":"$250.65"}
+{"question":"What is the average unit price for Pneumatic parts?","answer":"$244.79"}
+{"question":"What is the average unit price for Electrical parts?","answer":"$287.59"}
+{"question":"What is the average unit price for Mechanical parts?","answer":"$236.68"}
+{"question":"Which supplier has the most purchase orders overall?","answer":"Supplier_1027"}
+{"question":"How many orders did Supplier_1027 place?","answer":"28"}
+{"question":"How many orders did Supplier_1044 place?","answer":"28"}
+{"question":"How many orders did Supplier_1040 place?","answer":"28"}
+{"question":"How many orders did Supplier_1046 place?","answer":"28"}
+{"question":"How many orders did Supplier_1016 place?","answer":"27"}
+{"question":"What was the total quantity ordered in 2024-01?","answer":"43319"}
+{"question":"What was the total quantity ordered in 2024-02?","answer":"38017"}
+{"question":"What was the total quantity ordered in 2024-03?","answer":"41638"}
+{"question":"What was the total quantity ordered in 2024-04?","answer":"48847"}
+{"question":"What was the total quantity ordered in 2024-05?","answer":"57704"}
+{"question":"What was the total quantity ordered in 2024-06?","answer":"40109"}
+{"question":"Which part has the highest unit price?","answer":"Part_162"}
+{"question":"How many times was Part_179 ordered?","answer":"12"}
+{"question":"How many times was Part_001 ordered?","answer":"12"}
+{"question":"How many times was Part_047 ordered?","answer":"11"}
+{"question":"How many times was Part_154 ordered?","answer":"10"}
+{"question":"How many times was Part_115 ordered?","answer":"10"}
+{"question":"What is the average quantity per purchase order?","answer":"507.8"}
+{"question":"How many distinct parts are there total?","answer":"200"}
+{"question":"How many distinct suppliers are there total?","answer":"50"}
+{"question":"What is the earliest order date in the dataset?","answer":"2024-01-01"}
+{"question":"What is the latest order date in the dataset?","answer":"2024-12-30"}
+{"question":"How many orders include Hydraulic parts?","answer":"301"}
+{"question":"How many orders include Pneumatic parts?","answer":"257"}
+{"question":"How many orders include Electrical parts?","answer":"240"}
+{"question":"How many orders include Mechanical parts?","answer":"202"}
+{"question":"How many suppliers are located in Mexico?","answer":"15"}
+{"question":"How many suppliers are located in Canada?","answer":"11"}
+{"question":"How many suppliers are located in Germany?","answer":"10"}
+{"question":"What was the largest single order\u2019s part, supplier, and quantity?","answer":"Part_141 supplied by Supplier_1037 with quantity 998"}
+{"question":"How many orders were placed in the most recent 30-day period?","answer":"76"}
+{"question":"What is the minimum, maximum, and median unit price across all parts?","answer":"Min: $3.53, Max: $495.04, Median: $260.74"}
+{"question":"What is the contact email for Supplier_1000?","answer":"contact1000@supplier0.com"}
+{"question":"What category is Part_011?","answer":"Hydraulic"}
+{"question":"How many orders reference Part_021?","answer":"3"}

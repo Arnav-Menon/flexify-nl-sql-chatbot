@@ -1,0 +1,41 @@
+question,answer
+What is the average unit price for Hydraulic parts?,$250.65
+What is the average unit price for Pneumatic parts?,$244.79
+What is the average unit price for Electrical parts?,$287.59
+What is the average unit price for Mechanical parts?,$236.68
+Which supplier has the most purchase orders overall?,Supplier_1027
+How many orders did Supplier_1027 place?,28
+How many orders did Supplier_1044 place?,28
+How many orders did Supplier_1040 place?,28
+How many orders did Supplier_1046 place?,28
+How many orders did Supplier_1016 place?,27
+What was the total quantity ordered in 2024-01?,43319
+What was the total quantity ordered in 2024-02?,38017
+What was the total quantity ordered in 2024-03?,41638
+What was the total quantity ordered in 2024-04?,48847
+What was the total quantity ordered in 2024-05?,57704
+What was the total quantity ordered in 2024-06?,40109
+Which part has the highest unit price?,Part_162
+How many times was Part_179 ordered?,12
+How many times was Part_001 ordered?,12
+How many times was Part_047 ordered?,11
+How many times was Part_154 ordered?,10
+How many times was Part_115 ordered?,10
+What is the average quantity per purchase order?,507.8
+How many distinct parts are there total?,200
+How many distinct suppliers are there total?,50
+What is the earliest order date in the dataset?,2024-01-01
+What is the latest order date in the dataset?,2024-12-30
+How many orders include Hydraulic parts?,301
+How many orders include Pneumatic parts?,257
+How many orders include Electrical parts?,240
+How many orders include Mechanical parts?,202
+How many suppliers are located in Mexico?,15
+How many suppliers are located in Canada?,11
+How many suppliers are located in Germany?,10
+"What was the largest single order’s part, supplier, and quantity?",Part_141 supplied by Supplier_1037 with quantity 998
+How many orders were placed in the most recent 30-day period?,76
+"What is the minimum, maximum, and median unit price across all parts?","Min: $3.53, Max: $495.04, Median: $260.74"
+What is the contact email for Supplier_1000?,contact1000@supplier0.com
+What category is Part_011?,Hydraulic
+How many orders reference Part_021?,3
