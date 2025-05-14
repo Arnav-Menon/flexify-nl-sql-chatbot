@@ -1,5 +1,0 @@
-subnet is CIDR /26 -> only 64 ip addresses
-chatbot model is gpt-4.1-nano
-
-
-create db first (ingest_data.py)
